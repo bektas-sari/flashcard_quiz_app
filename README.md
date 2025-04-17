@@ -77,5 +77,5 @@ For questions or suggestions, feel free to contact:
 
 ## 📄 License
 
-MIT License © 2024 Bektas Sari
+MIT License © 2025 Bektas Sari
 
