@@ -1,6 +1,7 @@
 # 🧠 Flashcard Quiz App
 
-A simple and interactive Flutter quiz app where you flip cards to reveal answers. Ideal for practicing knowledge, training memory, and making learning fun. Features smooth animations and color feedback for correct and wrong answers.
+A simple and interactive Flutter quiz app where you flip cards to reveal answers. 
+Ideal for practicing knowledge, training memory, and making learning fun. Features smooth animations and color feedback for correct and wrong answers.
 
 ---
 
