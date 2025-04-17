@@ -15,12 +15,6 @@ Ideal for practicing knowledge, training memory, and making learning fun. Featur
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here if needed (e.g., `assets/screenshots/flashcard.png`)_
-
----
-
 ## 🛠 Built With
 
 - Flutter  
@@ -36,7 +30,7 @@ _Add screenshots here if needed (e.g., `assets/screenshots/flashcard.png`)_
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/flashcard_quiz_app.git
+git clone https://github.com/bektas-sari/flashcard_quiz_app.git
 cd flashcard_quiz_app
 ```
 
